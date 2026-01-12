@@ -30,7 +30,7 @@
 :root {
     --primary-color: #001f3f;
     --secondary-color: #1a8f89;
-    --hover-color: #00bcd4; /* Warna hover baru (biru terang) */
+    --hover-color: #1a8f89; /* Warna hover baru (biru terang) */
     --text-color: #2c3e50;
     --light-text-color: #ecf0f1; /* Warna teks terang/putih */
 }
